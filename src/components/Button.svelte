@@ -15,7 +15,7 @@
   button {
     background-color: var(--color-heading);
     box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
-    transition: all 0.2s ease-in-out;
+    transition: all 0.1s ease-in-out;
     font-size: 25px;
     width: 150px;
     height: 50px;
