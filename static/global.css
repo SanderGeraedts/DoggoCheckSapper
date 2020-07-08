@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Galada&family=Ubuntu:wght@400;700&display=swap");
+
+:root {
+  /* Color variables */
+  --color-orange: #fd5621;
+  --color-white: #ffffff;
+
+  /* Location colors */
+  --color-header: var(--color-orange);
+  --color-link: var(--color-orange);
+  --color-heading: var(--color-orange);
+  --color-logo: var(--color-white);
+  --color-background: #fdfaee;
+
+  /* Fonts */
+  --font-main: "Ubuntu", sans-serif;
+  --font-heading: "Galada", cursive;
+}
+
+body {
+  font-family: var(--font-main);
+  margin: 0;
+  padding: 0;
+  background-color: var(--color-background);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-heading);
+}
