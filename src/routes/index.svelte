@@ -1,3 +1,7 @@
+<script>
+  import Button from "../components/Button.svelte";
+</script>
+
 <style>
 
 </style>
@@ -13,3 +17,4 @@
     Try editing this file (src/routes/index.svelte) to test live reloading.
   </strong>
 </p>
+<Button>Pooped</Button>
