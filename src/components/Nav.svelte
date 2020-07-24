@@ -9,7 +9,7 @@
 <style>
   nav {
     position: fixed;
-    background-color: #323232;
+    background-color: var(--color-navigation);
     bottom: 0;
     width: 100vw;
     height: 100px;

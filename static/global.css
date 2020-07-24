@@ -3,14 +3,20 @@
 :root {
   /* Color variables */
   --color-orange: #fd5621;
+  --color-orange-lighter: #ff9877;
+  --color-beige: #fdfaee;
   --color-white: #ffffff;
+  --color-gray: #323232;
+  --color-gray-lighter: #7d7d7d;
 
   /* Location colors */
   --color-header: var(--color-orange);
   --color-link: var(--color-orange);
   --color-heading: var(--color-orange);
   --color-logo: var(--color-white);
-  --color-background: #fdfaee;
+  --color-background: var(--color-beige);
+  --color-navigation: var(--color-gray);
+  --color-background-card: var(--color-white);
 
   /* Fonts */
   --font-main: "Ubuntu", sans-serif;
